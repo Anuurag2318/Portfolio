@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.8fe0ef9f.css",
+    "main.js": "/Portfolio/static/js/main.45623fa4.js",
+    "static/media/Hostel.png": "/Portfolio/static/media/Hostel.ac7513e7b642911bddcd.png",
+    "static/media/Mental.png": "/Portfolio/static/media/Mental.9699d832981b762d1220.png",
+    "static/media/AnuragTiwari_CV.pdf": "/Portfolio/static/media/AnuragTiwari_CV.024e24a536aeafe578a4.pdf",
+    "static/media/Quiz.png": "/Portfolio/static/media/Quiz.ebbb6002e93f7741db7d.png",
+    "static/media/grocery.png": "/Portfolio/static/media/grocery.d65e30b9b822d04cd571.png",
+    "static/media/decentralized.png": "/Portfolio/static/media/decentralized.99df01b19f79e6e09fe9.png",
+    "static/media/Aquarium.png": "/Portfolio/static/media/Aquarium.446dee0e49a43ae890b6.png",
+    "static/media/Recommendation.jpg": "/Portfolio/static/media/Recommendation.bdb4c90940bd08ec29d0.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.8fe0ef9f.css.map": "/Portfolio/static/css/main.8fe0ef9f.css.map",
+    "main.45623fa4.js.map": "/Portfolio/static/js/main.45623fa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fe0ef9f.css",
+    "static/js/main.45623fa4.js"
+  ]
+}
