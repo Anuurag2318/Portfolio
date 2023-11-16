@@ -1,7 +1,7 @@
 nav {
   background: rgba(0, 0, 0, 0.3);
   padding: 0.7rem 0;
-  z-index: 2;
+  z-index: 10;
   position: fixed;
   top: 2rem;
   left: 50%; /* Adjusted to center horizontally */

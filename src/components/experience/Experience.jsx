@@ -4,6 +4,7 @@ import './experience.css';
 
 const Experience = () => {
   return (
+    
     <section id="experience">
       <h5>The Skills I Have</h5>
       <h2>Skills</h2>
@@ -55,9 +56,13 @@ const Experience = () => {
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>MongoDB</h4>
             </article>
+            
           </div>
+          
         </div>
+        
       </div>
+      
     </section>
   )
 }
